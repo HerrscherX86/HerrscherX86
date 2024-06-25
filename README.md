@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm KiaFizz</h1>
 <h3 align="center">I don't really know what to put here. Like this i guess?</h3>
 <div align="center">
-    <img src="./pictures/1.jpeg" alt="Banner Image" width="300"/>
+    <img src="./pictures/1.jpeg" alt="Banner Image" width="150"/>
 </div>
 
 - 📫 How to reach me **Just DM me on Insta :)**
