@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm KiaFizz</h1>
 <h3 align="center">I don't really know what to put here. Like this i guess?</h3>
 
-![Banner Image](./images/1.jpeg)
+![Banner Image](/images/1.jpeg)
 
 - 📫 How to reach me **Just DM me on Insta :)**
 
